@@ -7,7 +7,7 @@ hän \ he (she)
 että \ that
 tämä \ this
 mutta \ but
-saa/da \ to have to (must)
+saa/da \ to get (to may)
 
 kun \ when
 niin \ so
@@ -28,7 +28,7 @@ nyt \ now
 vain \ only
 suuri \ big
 vuosi \ year
-pitä/ä \ to keep
+pitä/ä \ to keep (to like, to have to)
 teh/dä \ to do
 
 sitten \ then
@@ -77,7 +77,7 @@ tietä/ä \ to know
 
 osa \ part (part of)
 jää/dä \ to stay (to remain)
-kerto/a \ to count
+kerto/a \ to tell
 eräs \ one (a) (article)
 poika \ boy (son)
 yksi \ one
@@ -89,7 +89,7 @@ jokin \ some (one of the)
 pääs/tä \ to reach
 käsi \ hand
 näin \ thus (this way)
-hyvin \ good (very)
+hyvin \ well (very)
 vanha \ old
 koko \ size (the whole)
 jälkeen \ after (after the)
@@ -109,7 +109,7 @@ tie \ way (road)
 katso/a \ to look
 
 mukaan \ according to (by)
-suoritta/a \ to perform
+suoritta/a \ to perform (to execute (file or command))
 sellainen \ such
 tapahtu/a \ to happen
 maini/ta \ to mention
@@ -119,10 +119,10 @@ jumala \ god
 kysymys \ question
 ennen \ before
 
-koska \ why
+koska \ because (since, when (question))
 siis \ therefore
 siellä \ there
-saatta/a \ to accompany
+saatta/a \ to accompany (may, might)
 joutua \ need to be
 puoli \ half
 tarvi/ta \ to need
