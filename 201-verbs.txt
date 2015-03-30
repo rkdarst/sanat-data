@@ -1,53 +1,53 @@
-olla	\
-ei 	\
-saada 	\
-voida 	\
-tulla 	\
-tehdä 	\
-pitää 	\
-sanoa 	\
-kertoa 	\
-jäädä 	\
-ottaa 	\
-antaa 	\
-haluta 	\
-alkaa 	\
-käydä 	\
-eikä 	\
-päästä 	\
-toimia 	\
-ettei 	\
-mennä 	\
-joutua 	\
-käyttää 	\
-kuulua 		\
-lähteä 		\
-tarvita 	\
-nousta 		\
-nähdä 		\
-todeta 		\
-seurata 	\
-tietää 		\
-maksaa 		\
-vaatia 		\
-löytyä 		\
-tuoda 		\
-uskoa 		\
-esittää 	\
-odottaa 	\
-näyttää 	\
-syntyä 		\
-päättää 	\
-saattaa 	\
-aloittaa 	\
-kasvaa 		\
-järjestää 	\
-johtaa 		\
-valita 		\
-jatkaa 		\
-voittaa 	\
-pelata 		\
-viedä 		\
+olla	\ to be
+ei 	\ negation
+saada 	\ to get (receive)
+voida 	\ to feel (to do)
+tulla 	\ to come
+tehdä 	\ to do
+pitää 	\ to like (to consider, to have, to hold)
+sanoa 	\ to say
+kertoa 	\ to tell (to multiply)
+jäädä 	\ to stay
+ottaa 	\ to take
+antaa 	\ to give
+haluta 	\ to want
+alkaa 	\ to begin
+käydä 	\ to go (to visit)
+eikä 	\ nor (negation verb word)
+päästä 	\ to get to (to reach, to arrive)
+toimia 	\ to work (to function)
+ettei 	\ että+ei
+mennä 	\ to go
+joutua 	\ to get (into negative position or situation, to be forced, involuntary)
+käyttää 	\ to use (to make use of)
+kuulua 		\ to be heard (to be audible, to be said)
+lähteä 		\ to leave (to go)
+tarvita 	\ to need (to require)
+nousta 		\ to rise (to arise, to embark)
+nähdä 		\ to see
+todeta 		\ to state (to note, to notice)
+seurata 	\ to follow, accompany
+tietää 		\ to know
+maksaa 		\ to cost (to pay)
+vaatia 		\ to demand (to insist, to claim)
+löytyä 		\ to be found
+tuoda 		\ to bring (to get)
+uskoa 		\ to believe in (to have faith)
+esittää 	\ to express (to show when explaining)
+odottaa 	\ to wait for
+näyttää 	\ to show (to present, to seem)
+syntyä 		\ to be born
+päättää 	\ to decide
+saattaa 	\ to escort
+aloittaa 	\ to start (to go ahead)
+kasvaa 		\ to grow
+järjestää 	\ to arrange
+johtaa 		\ to lead (to guide)
+valita 		\ form of valittaa (Indicative present connegative form of valittaa)
+jatkaa 		\ to continue (to go on, to extend)
+voittaa 	\ to win
+pelata 		\ to play
+viedä 		\ to take (to bring away, to steal)
 sopia 		\
 arvioida 	\
 katsoa 		\
@@ -68,7 +68,7 @@ yrittää 	\
 tuntua 		\
 vaikuttaa 	\
 ilmoittaa 	\
-löytää 		\
+löytää 		\ to find
 pyrkiä 		\
 tarjota 	\
 kannattaa 	\
