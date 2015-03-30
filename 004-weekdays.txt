@@ -1,0 +1,10 @@
+maanantai \ monday
+tiistai \ tuesday
+keskiviikko \ wednesday
+torstai \ thursday
+perjantai \ friday
+lauantai \ saturday
+sunnuntai \ sunday
+
+tiistaina \ on thursday
+milloin \ when

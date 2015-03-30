@@ -1,0 +1,48 @@
+puisto \ park
+loppua \ end
+kello \ clock
+muu \ other
+opiskelija \ student
+mennä \ go
+koti \ home
+mutta \ but
+kioski \ kiosk
+ostaa \ to buy
+jäätelö \ ice cream
+maksaa \ to pay
+#euro \ euro
+säästää \ to save
+raha \ money
+sitten \ ago
+istua \ sit
+puhua \ talk
+naurra \ to laugh
+#minkämallainen \ ????
+brasilialainen \ brazalian
+venäläinen \ russian
+entä \ what
+mistä \ from[???]
+kotoisin \ from
+Etelä-Afrikka \ South Africa
+ai jaa \ oh
+kieli \ language
+minun \ my
+äidinkiela \ mother tounge
+englandi \ english
+myös \ also
+vähän \ little
+espanja \ spain
+-ko \ -to [suffix, no ö]
+sinun \ your
+portugali \ portuguese
+ai niin \ oh yeah
+tietysti \ of course
+ajjaa \ to run
+auto \ car
+bussipysäkki \ bus stop
+missä \ where
+ausa \ live
+numero \ number
+vaan \ but [X, but Y]
+nyt \ now
+

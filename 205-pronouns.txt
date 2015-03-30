@@ -1,0 +1,48 @@
+it                  \ se
+which               \ joka
+he                  \ hän
+this                \ tämä
+they (it plural)    \ ne
+all                 \ kaikki
+other               \ muu
+what                \ mikä
+they                \ he
+we                  \ me
+(...) self          \ itse
+many                \ moni
+the same            \ sama
+any                 \ mikään
+second, other       \ toinen
+some                \ jokin
+I                   \ minä
+these               \ nämä
+many                \ usea
+some (a few)        \ muutama
+every (everyone)    \ jokainen
+someone             \ joku
+both (plural)       \ molemmat
+who                 \ kuka
+anybody             \ kukaan
+someone (some-)     \ eräs
+that (over there)   \ tuo
+both                \ kumpikin
+other than (besides, except for)  \ muu kuin
+each                \ kukin
+you                 \ sinä
+infrequent (sparse) \ harva
+you (plural)        \ te
+which one           \ kumpi
+whatever (whichever, wherever) \ mikä tahansa
+those               \ nuo
+anyone (anybody)    \ kuka tahansa
+a (an)              \ muuan
+which               \ mikin  (same as mikäkin)
+                    \ me kaikki
+                    \ tämä kaikki
+some (a few)        \ jokunen
+whatever            \ mikä vain
+(nothing) at all    \ (ei) yhtään mikään
+                    \ kaikki tämä
+countless (uncountable) \ lukematon
+                    \ mikä hyvänsä
+what (what all, everything that)    \ mikä kaikki

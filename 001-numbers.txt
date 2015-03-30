@@ -1,0 +1,29 @@
+nolla \ zero
+yksi \ one
+kaksi \ two
+kolme \ three
+neljä \ four
+viisi \ five
+kuusi \ six
+seitsemän \ seven
+kahdeksan \ eight
+yhdeksän \ nine
+kymmenen \ ten
+yksitoista \ eleven
+
+kaksikymmentä \ twenty
+kaksikymmentäyksi \ twenty one
+
+kolmekymmentä \ thirty
+sata \ one hundred
+satayksi \ one hundred one
+
+kaksisataa \ two hundred
+kolmesataa \ three hundred
+
+tuhat \ one thousand
+kaksituhatta \ two thousand
+viisisataatuhatta \ five hundred thousand
+
+miljoona \ one million
+kaksi miljoonaa \ two million

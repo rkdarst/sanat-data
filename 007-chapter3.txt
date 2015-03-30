@@ -1,0 +1,104 @@
+sähköposti       \ e-mail
+mies		 \ man
+hyvä		 \ good
+ystävä		 \ friend
+kirjoittaa	 \ write
+lähettäjä	 \ sender
+vastaanottaja	 \ recipient
+otsikko		 \ title
+terveisiä	 \ greetings
+englanniksi	 \ English
+suomeski	 \ suomeski
+toivottavasti	 \ hopefully
+ymmärtää	 \ understand
+hassu		 \ funny
+maanantaisin	 \ Mondays
+keskiviikkoisin	 \ Wednesdays
+torstaisin	 \ Thursdays
+meidän		 \ our
+kiva		 \ nice
+ystäva		 \ friend
+yleensä		 \ usually
+
+
+koti              \ home
+lukea		  \ read
+uutiset		  \ news
+etsiä töitä	  \ search for a job
+joskus		  \ sometimes
+soittaa		  \ call
+kitara		  \ guitar
+ilta		  \ evening
+olla töissä	  \ to be at work
+opiskelija-asunto \ student housing
+pieni		  \ small
+siksi		  \ therefore
+muuttaa		  \ change
+elokuu		  \ August
+uusi		  \ new
+täällä		  \ here
+kaunis		  \ beautiful
+ilma		  \ air
+lämmin		  \ warm
+aste		  \ degree
+aurinko		  \ sun
+paistaa		  \ shine
+yö		  \ night
+vaikea		  \ difficult
+nukkua		  \ sleep
+koska		  \ because
+valoisa		  \ bright
+millainen	  \ what
+sää		  \ weather
+paljon		  \ a lot
+terveisin	  \ Best regards
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

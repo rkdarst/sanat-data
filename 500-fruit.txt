@@ -1,0 +1,30 @@
+ananas \  pineapple
+kirsikka \  cherry
+appelsiini \ orange
+aprikoosi \ apricot
+avokado \ avocado
+banaani \ banana
+granaattiomena \ pomegranate
+greippi \ grapefruit
+hunajameloni \ honeydew
+kiivi \ kiwi
+klementiini \ clementine
+kvitteni \ quince
+litsi \ lychee
+luumu \ plum
+mandariini \ mandarin
+omena \ apple
+papaija \ papaya
+passionhedelmä \ passion fruit
+persikka \ peach
+persimoni \ persimmon
+pomeranssi \ bitter orange
+päärynä \ pear
+sitruuna \ lemon
+taateli \ date
+tangeriini \ tangerine
+tähtihedelmä \ star fruit
+vesimeloni \ watermelon
+viherluumu \ greengage
+viikuna \ fig
+viinirypäle \ grape

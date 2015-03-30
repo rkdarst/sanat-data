@@ -1,0 +1,31 @@
+hei \ hey
+ja \ and
+Tervetuloa \ welcome
+moi \ hi
+anteeksi \ I'm sorry
+onko \ whether
+täällä \ here
+suomen kurssi \ Finnish course
+kuka sinä olet? \ who are you?
+
+minä \ I
+olla \ to be
+entä \ what
+sinä \ you
+hauska tutustua \ how do you do?
+kiitos samoin \ same to you
+mitä sinulle kuuluu? \ what are you doing?
+#minulle kuuluu kyvää \ ...
+entä sinulle? \ what about you?
+ihan hyvää, kiitos \ quite well, thanks
+hän \ he
+kuinka vanha sinä olet? \ how old are you?
+opettaja \ teacher
+tulla \ becasue
+huomenta \ morning
+mikä sinun nimi on? \ what is your name?
+minun nimi on \ my name is
+miten se kirjoitetaan? \ how do you spell?
+etunimi \ first name
+sukunimi \ last name
+
