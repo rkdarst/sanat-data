@@ -12,7 +12,7 @@ minä \ I
 olla \ to be
 entä \ what
 sinä \ you
-hauska tutustua \ how do you do?
+hauska tutustua \ nice to meet you
 kiitos samoin \ same to you
 mitä sinulle kuuluu? \ what are you doing?
 #minulle kuuluu kyvää \ ...
@@ -21,7 +21,7 @@ ihan hyvää, kiitos \ quite well, thanks
 hän \ he
 kuinka vanha sinä olet? \ how old are you?
 opettaja \ teacher
-tulla \ becasue
+tulla \ to come
 huomenta \ morning
 mikä sinun nimi on? \ what is your name?
 minun nimi on \ my name is

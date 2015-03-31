@@ -7,7 +7,7 @@ lähettäjä	 \ sender
 vastaanottaja	 \ recipient
 otsikko		 \ title
 terveisiä	 \ greetings
-englanniksi	 \ English
+englanniksi	 \ into English
 suomeski	 \ suomeski
 toivottavasti	 \ hopefully
 ymmärtää	 \ understand
