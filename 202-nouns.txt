@@ -1,9 +1,9 @@
 vuosi	\ year
 markka 	\ mark
-maa 	\ land
+maa 	\ land, country
 asia 	\ thing
 prosentti 	\ percentage
-ihminen 	\ people
+ihminen 	\ human being
 mies 		\ man
 aika 		\ time
 työ 		\ work
@@ -19,21 +19,21 @@ nainen 		\ woman
 viikko 		\ week
 luku 		\ chapter
 kerta 		\ time
-yritys 		\ company
+yritys 		\ company, attempt
 alku 		\ start
-paikka 		\ position
+paikka 		\ position, location, place
 tilanne 	\ situation
 presidentti 	\ president
-tieto 		\ data
-loppu 		\ final
-tapa 		\ way to
+tieto 		\ data, information, knowledge
+loppu 		\ final, end
+tapa 		\ way to, custom
 maailma 	\ world
 määrä 		\ the number of
-puheenjohtaja 	\ chairman of
+puheenjohtaja 	\ chairman
 poliisi 	\ police
 kisa 		\ race
 auto 		\ car
-toiminta 	\ operation
+toiminta 	\ operation, action
 tulos 		\ result
 raha 		\ money
 päätös 		\ decision
@@ -51,7 +51,7 @@ mahdollisuus 	\ the opportunity to
 kausi 		\ season
 suomalainen 	\ Finnish (person)
 valtio 		\ the state
-kuva 		\ photo
+kuva 		\ photo, figure
 nimi 		\ name
 joukko 		\ a set of
 johtaja 	\ director of
@@ -59,7 +59,7 @@ tila 		\ space
 apu 		\ help (assistance)
 ryhmä 		\ group
 hetki 		\ moment
-tehtävä 	\ function
+tehtävä 	\ function, task
 puolue 		\ party
 tavoite 	\ target
 voitto 		\ profit
@@ -72,7 +72,7 @@ hinta 		\ price
 sunnuntai 	\ Sunday
 sarja 		\ series
 perjantai 	\ Friday
-puoli 		\ semi
+puoli 		\ half
 lauantai 	\ Saturday
 yhteistyö 	\ cooperation
 jäsen 		\ member
@@ -89,19 +89,19 @@ ratkaisu 	\ solution
 peli 		\ game
 kirja 		\ book
 tuki 		\ support
-poika 		\ son
+poika 		\ son, boy
 esitys 		\ presentation
 edustaja 	\ agent (representative)
-ala 		\ area
-tie 		\ path
+ala 		\ area (geometry) (branch, of science)
+tie 		\ path, road, way
 perhe 		\ family
-metri 		\ metric
+metri 		\ meter
 oikeus 		\ the right to
-asema 		\ drive
+asema 		\ position
 elokuva 	\ movie
 voima 		\ power
 tarkoitus 	\ purpose
-maali 		\ paint
+maali 		\ paint, goal
 johto 		\ management
 muutos 		\ change
 tunti 		\ hour
@@ -113,7 +113,7 @@ kokous 		\ meeting
 vesi 		\ water
 liitto 		\ union
 tulevaisuus 	\ future
-ääni 		\ audio
+ääni 		\ audio, voice, vote
 palvelu 	\ service
 juttu 		\ thing
 kunto 		\ condition
@@ -128,7 +128,7 @@ lehti 		\ journal
 asiakas 	\ customer
 henkilö 	\ person
 sivu 		\ page
-klo 		\ at
+kello 		\ at
 raja 		\ limit (border)
 toimitusjohtaja \ CEO
 musiikki	\ music
@@ -140,7 +140,7 @@ koti 		\ home
 kilometri 	\ kilometer
 asukas 		\ resident
 käytäntö 	\ practice
-vaali 		\ election
+vaali (vaalit)	\ election
 kirkko 		\ church
 minuutti 	\ minute
 keskustelu 	\ discussion
@@ -151,8 +151,8 @@ arvo 		\ value
 henki 		\ spirit
 neuvottelu 	\ negotiation
 seura 		\ society
-vaihe 		\
-pankki 		\
+vaihe 		\ phrase
+pankki 		\ bank
 koulutus 	\
 miljoona 	\
 työpaikka 	\

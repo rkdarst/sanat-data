@@ -80,7 +80,7 @@ jää/dä \ to stay (to remain)
 kerto/a \ to tell
 eräs \ one (a) (article)
 poika \ boy (son)
-yksi \ one
+yksi \ one (number)
 työ \ work
 käyttä/ä \ to use
 kuulu/a \ to belong (to include)
@@ -98,7 +98,7 @@ aina \ always
 silloin \ then
 
 ensimmäinen \ first
-tapa \ way
+tapa \ way (habit)
 sana \ word
 vaan \ but
 tunte/a \ to feel (to know)

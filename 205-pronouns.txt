@@ -1,6 +1,6 @@
 ###reversed
 it                  \ se
-which               \ joka
+which               \ joka, mikä
 he                  \ hän
 this                \ tämä
 they (it plural)    \ ne
@@ -36,14 +36,14 @@ which one           \ kumpi
 whatever (whichever, wherever) \ mikä tahansa
 those               \ nuo
 anyone (anybody)    \ kuka tahansa
-a (an)              \ muuan
+a (an)              \ eräs (muuan) (usually not used)
 which               \ mikin  (same as mikäkin)
-                    \ me kaikki
-                    \ tämä kaikki
+all of us           \ me kaikki
+this all            \ tämä kaikki
 some (a few)        \ jokunen
 whatever            \ mikä vain
 (nothing) at all    \ (ei) yhtään mikään
                     \ kaikki tämä
 countless (uncountable) \ lukematon
-                    \ mikä hyvänsä
+whatever            \ mikä hyvänsä
 what (what all, everything that)    \ mikä kaikki

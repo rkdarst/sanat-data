@@ -1,57 +1,57 @@
-olla	\ to be
+ol/la	\ to be, to have
 ei 	\ negation
-saada 	\ to get (receive)
-voida 	\ to feel (to do)
-tulla 	\ to come
-tehdä 	\ to do
-pitää 	\ to like (to consider, to have, to hold)
-sanoa 	\ to say
-kertoa 	\ to tell (to multiply)
-jäädä 	\ to stay
-ottaa 	\ to take
-antaa 	\ to give
-haluta 	\ to want
-alkaa 	\ to begin
-käydä 	\ to go (to visit)
+saa/da 	\ to get (receive)(, may, be allowed)
+voi/da 	\ to can (to be able)
+tul/la 	\ to come
+teh/dä 	\ to do
+pitä/ä 	\ to like (to consider, to have, to hold)
+sano/a 	\ to say
+kerto/a	\ to tell (to multiply)
+jää/dä 	\ to stay
+otta/a 	\ to take
+anta/a 	\ to give
+halu/ta	\ to want
+alka/a 	\ to begin (to start doing)
+käy/dä 	\ to visit (to go)
 eikä 	\ nor (negation verb word)
-päästä 	\ to get to (to reach, to arrive)
-toimia 	\ to work (to function)
+pääs/tä	\ to get to (to reach, to arrive)
+toimi/a	\ to work (to function)
 ettei 	\ että+ei
-mennä 	\ to go
-joutua 	\ to get (into negative position or situation, to be forced, involuntary)
-käyttää 	\ to use (to make use of)
-kuulua 		\ to be heard (to be audible, to be said)
-lähteä 		\ to leave (to go)
-tarvita 	\ to need (to require)
-nousta 		\ to rise (to arise, to embark)
-nähdä 		\ to see
-todeta 		\ to state (to note, to notice)
-seurata 	\ to follow, accompany
-tietää 		\ to know
-maksaa 		\ to cost (to pay)
-vaatia 		\ to demand (to insist, to claim)
-löytyä 		\ to be found
-tuoda 		\ to bring (to get)
-uskoa 		\ to believe in (to have faith)
-esittää 	\ to express (to show when explaining)
-odottaa 	\ to wait for
-näyttää 	\ to show (to present, to seem)
-syntyä 		\ to be born
-päättää 	\ to decide
-saattaa 	\ to escort
-aloittaa 	\ to start (to go ahead)
-kasvaa 		\ to grow
-järjestää 	\ to arrange
-johtaa 		\ to lead (to guide)
-valita 		\ form of valittaa (Indicative present connegative form of valittaa)
-jatkaa 		\ to continue (to go on, to extend)
-voittaa 	\ to win
-pelata 		\ to play
-viedä 		\ to take (to bring away, to steal)
-sopia 		\
-arvioida 	\
-katsoa 		\
-vastata 	\
+men/nä 	\ to go
+joutu/a	\ to get into (into negative position, involuntary)
+käyttä/ä 	\ to use (to make use of)
+kuulu/a		\ to be heard (to be audible, to be said), to belong
+lähte/ä		\ to leave (to go)
+tarvi/ta 	\ to need (to require)
+nous/ta		\ to rise (to arise, to embark)
+näh/dä 		\ to see
+tode/ta		\ to state (to note, to notice)
+seura/ta 	\ to follow, accompany
+tietä/ä		\ to know
+maksa/a		\ to cost (to pay)
+vaati/a		\ to demand (to insist, to claim)
+löyty/ä		\ to be found
+tuo/da 		\ to bring (to get)
+usko/a 		\ to believe in (to have faith)
+esittä/ä 	\ to express (to present, to show when explaining)
+odotta/a 	\ to wait for
+näyttä/ä 	\ to show (to present, to seem)
+synty/ä		\ to be born
+päättä/ä 	\ to decide
+saatta/a 	\ to escort(, may)
+aloitta/a 	\ to start (to go ahead)
+kasva/a		\ to grow (to increase)
+järjestä/ä 	\ to arrange
+johta/a		\ to lead (to guide)
+vali/ta		\ to choose (to pick)
+jatka/a		\ to continue (to go on, to extend)
+voitta/a 	\ to win
+pela/ta		\ to play
+vie/dä 		\ to take (to bring away, to steal)
+sopi/a 		\ to fit
+arvioi/da 	\ to evaluate
+katso/a		\ to look (to watch)
+vasta/ta 	\ to answer
 riittää 	\
 ajaa 		\
 tuntea 		\
@@ -68,7 +68,7 @@ yrittää 	\
 tuntua 		\
 vaikuttaa 	\
 ilmoittaa 	\
-löytää 		\ to find
+löytä/ä		\ to find
 pyrkiä 		\
 tarjota 	\
 kannattaa 	\
