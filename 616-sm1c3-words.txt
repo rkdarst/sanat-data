@@ -1,0 +1,100 @@
+tällä \ here
+tuolla \ at;on;within
+siellä \ there (not pointing)
+
+nyt \ now
+vaan \ but
+toivottavasti \ hopefully
+että \ that (conjunction)
+myös \ also
+yleensä \ usually
+joskus \ sometimes
+siksi \ therefore
+koska \ because
+
+# Adjectives (+ adverb)
+hyvä \ good
+huono \ bad
+kuuma \ hot
+kylmä \ cold
+vaikea \ hard
+helppo \ easy
+pieni \ small
+iso; suuri \ big
+uusi \ new
+vanha \ old
+kaunis \ beautiful
+ruma \ ugly
+lämmin \ warm
+viileä \ cool
+valoisa \ bright
+pimeä \ dark
+paljon \ many
+vähän \ few
+
+# Weather
+On kaunis ilma; On hyvä ilma \ It is beautiful weather (weather)
+On huono ilma \ It is bad weather
+Kuinka monta astetta ulkona on? \ How many degrees is it outside?
+Aurinko paistaa \ Sun shines
+On aurinkoista \ It is sunny
+On pilvistä \ It is cloudy
+On puolipilvistä \ It is partly cloudy
+On selkeää \ It is clear
+On sumuista \ It is foggy
+Sataa \ Rainy
+On sateista \ It is raining
+Sataa räntää \ Sleeting
+Sataa lunta \ Snowing
+Tuulee \ Windy
+On tuulista \ It is windy
+On myrsky \ It is stormy
+On ukkonen \ It is thundering
+
+# Times of day
+aamulla \ in the morning
+aamupäivällä \ in the late morning
+päivällä \ in the day
+iltapäivällä \ in the afternoon
+illalla \ in the evening
+yöllä \ at night
+aamuyöllä \ in the early hours
+
+# Seasons
+talvi \ winter
+kevät \ spring
+kesä \ summer
+syksy \ autumn
+talvella \ in winter
+keväällä \ in spring
+kesällä \ in summer
+syksyllä \ in autumn
+
+valkoinen \ white
+punainen \ red
+sininen \ blue
+keltainen \ yellow
+vihreä \ green
+musta \ black
+ruskea \ brown
+harmaa \ grey
+oranssi \ orange
+liila \ purple (l...)
+violetti \ violet (v...)
+pinkki \ pink (p...)
+vaaleanpunainen \ pink (v...)
+
+tammikuu \ January
+helmikuu \ February
+maaliskuu \ March
+huhtikuu \ April
+toukokuu \ May
+kesäkuu \ June
+heinäkuu \ July
+elokuu \ August
+syyskuu \ September
+lokakuu \ October
+marraskuu \ November
+joulukuu \ December
+
+
