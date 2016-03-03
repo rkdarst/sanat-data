@@ -1,0 +1,49 @@
+teksti \ text
+naimisissa \ married
+(G +) kanssa \ with
+rakastaa (+ P) \ to love
+meillä on \ we have
+lapsi \ child
+söpö \ cute
+(N-) vuotias
+tyttö \ girl ; daughter
+olla töissä \ to work at
+bussikuski \ bus driver (spoken)
+minulla ei ole \ I do not have
+vielä \ yet
+etsiä (+ P) \ to search for
+työpaikka \ workplace
+sama \ same
+pitkä \ tall ; long
+hoikka \ slim (h...)
+ujo \ shy
+vaalea \ light ; blonde
+tukka \ hair
+silmä \ eyee
+perhe \ family
+kotona \ at home
+iso \ big
+äite \ mother
+isä \ father
+isoveli \ big brother
+pikkusisko \ little syster
+helsinkiläinen \ of Helsinki ; Helsinki resident
+talo \ building
+kerros \ floor
+huone \ room
+keittiö \ kitchen
+puhelias \ talkative
+iloinen \ cheerful
+kihara \ curly
+tumma \ dark
+tyttöystävä \ girlfriend
+kauppa \ shop
+meillä ei ole \ we do not have
+pyörä \ bicycle
+
+# extra things
+
+olla + -ssa
+tukeva
+lihava \ fat (person, not polite)
+laiha \ lean ; thin (l...)
