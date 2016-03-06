@@ -1,20 +1,21 @@
 ###reversed
 it                  \ se
-which               \ joka, mikä
+which               \ joka; mikä
 he                  \ hän
 this                \ tämä
 they (it plural)    \ ne
 all                 \ kaikki
 other               \ muu
 what                \ mikä
-they                \ he
+they (people)       \ he
 we                  \ me
 (...) self          \ itse
 many                \ moni
 the same            \ sama
 any                 \ mikään
-second, other       \ toinen
-some                \ jokin
+nothing             \ ei mikään   # added from EFG
+second; other       \ toinen
+something           \ jokin (jo/kin)
 I                   \ minä
 these               \ nämä
 many                \ usea
@@ -24,19 +25,20 @@ someone             \ joku
 both (plural)       \ molemmat
 who                 \ kuka
 anybody             \ kukaan
+no one              \ ei kukaan   # added from EFG
 someone (some-)     \ eräs
 that (over there)   \ tuo
 both                \ kumpikin
 other than (besides, except for)  \ muu kuin
-each                \ kukin
+each one ; everyone \ kukin
 you                 \ sinä
 infrequent (sparse) \ harva
 you (plural)        \ te
-which one           \ kumpi
+which one (of two)  \ kumpi
 whatever (whichever, wherever) \ mikä tahansa
 those               \ nuo
 anyone (anybody)    \ kuka tahansa
-a (an)              \ eräs (muuan) (usually not used)
+someone ; a certain one \ eräs (muuan) (usually not used(?))
 which               \ mikin  (same as mikäkin)
 all of us           \ me kaikki
 this all            \ tämä kaikki
@@ -47,3 +49,4 @@ whatever            \ mikä vain
 countless (uncountable) \ lukematon
 whatever            \ mikä hyvänsä
 what (what all, everything that)    \ mikä kaikki
+either ; one or the other \ jompikumpi     # Added from EFG
