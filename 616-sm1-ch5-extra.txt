@@ -1,90 +1,93 @@
-iloinen onnellinen
-surullinen
-puhelias
-hiljainen
-vihainen
-ystävällinen kohtelias
-epäystävällinen
-epäkohtelias
-nuori
-vanha
-ujo
-suora
-silmälaset
-nätti
-hyvännäköinen
-kalju
-parta
-viikset
-komea
-lyhyt
-tukeva
-suloinen
+iloinen \ cheerful
+onnellinen \ happy (adjective)
+surullinen \ sad
+puhelias \ talkative
+hiljainen \ quiet (person)
+vihainen \ angry
+ystävällinen \ friendly
+kohtelias \ polite
+epäystävällinen \ unfriendly
+epäkohtelias \ rude
+nuori \ young
+vanha \ old
+ujo \ shy
+suora \ straight (object)
+silmälasit \ eyeglasses
+nätti \ pretty
+hyvännäköinen \ good looking
+kalju \ bald
+parta \ beard
+viikset \ moustache
+komea \ handsome
+lyhyt \ short
+tukeva \ chubby
+suloinen \ sweet ; cute ; lovely
 
 # Family
-isovanhemmat
-isoisä
-isoäite
-vanhemmat
-mies
-vaimo
-poika
-tytär
-veli
-sisko
-vauva
+isovanhemmat \ grandparents (plural)
+isoisä \ grandfather
+isoäite \ grandmother
+vanhempi \ parent
+vanhemmat \ parents
+mies \ man ; husband
+vaimo \ wife
+poika \ boy ; son
+tytär \ daughter
+veli \ brother
+sisko \ sister
+vauva \ baby
 
 # relationship statuses
-naimisissa
-naimaton
-sinkku
-kihloissa
-eronnut
-poikaystävä
-töissä
-työtön
-opiskelija
-eläkkeellä
+naimisissa \ (olla+) married (adverb)
+naimaton \ single (unmarried, written)
+sinkku \ single (unmarried, spoken)
+kihloissa \ (olla+) engaged
+eronnut \ divorced
+poikaystävä \ boyfriend
+töissä \ employed (inessive work)
+työtön \ unemployed
+opiskelija \ student
+eläkkeellä \ retired
 
 # "speak" section
-haluta
-ilmoittautua
-kesäyliopisto
-toimisto
-sihteeri
-kieli
-taso
-selvä
-seuraava
-alkaa
-jo
-toinen
-parempi
-vielä
-tila
-hetkinen
-tarkistaa
-vapaa
-paikka
-lista
-tarvita
-henkilötiedot
-tässä
-lomake
+haluta \ to want
+ilmoittautua \ to enroll
+kesäyliopisto \ summer school
+toimisto \ office
+sihteeri \ secretary
+kieli \ language
+taso \ level
+selvä \ clear
+seuraava \ next
+alkaa \ to start
+jo \ already
+toinen \ other
+parempi \ better
+vielä \ yet ; even ; still
+tila \ state ; condition, space
+hetkinen \ (small) moment
+tarkistaa \ to check ; to verify
+vapaa \ free
+paikka \ place
+lista \ list
+tarvita \ to need
+henkilötiedot \ personal data
+tässä \ here (close)
+lomake \ form (document)
 
 # Registration form
-sukunimi
-etunimit
-henkilötunnus
-osoite
-postinumero
-postitoimipaikka
-puhelin
-kansalaisuus
-äidinkieli
-syntymäaika
-syntymäpaikka
-siviilsääty
-päiväys
-allekirjoitus
+sukunimi \ family name
+etunimit \ first names
+henkilötunnus \ personal ID number
+osoite \ address
+postinumero \ post code
+postitoimipaikka \ post office
+puhelin \ phone
+kansalaisuus \ nationality
+äidinkieli \ mother language
+syntymäaika \ date of birth
+syntymäpaikka \ location of birth
+siviilsääty \ marital status
+päiväys \ date
+allekirjoitus \ signature
 

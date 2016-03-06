@@ -19,14 +19,14 @@ hoikka \ slim (h...)
 ujo \ shy
 vaalea \ light ; blonde
 tukka \ hair
-silmä \ eyee
+silmä \ eye
 perhe \ family
 kotona \ at home
 iso \ big
 äite \ mother
 isä \ father
 isoveli \ big brother
-pikkusisko \ little syster
+pikkusisko \ little sister
 helsinkiläinen \ of Helsinki ; Helsinki resident
 talo \ building
 kerros \ floor
@@ -42,8 +42,7 @@ meillä ei ole \ we do not have
 pyörä \ bicycle
 
 # extra things
-
-olla + -ssa
-tukeva
+tukeva \ chubby
 lihava \ fat (person, not polite)
 laiha \ lean ; thin (l...)
+#olla + -ssa \ 
