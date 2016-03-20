@@ -64,7 +64,7 @@ jo \ already
 toinen \ other
 parempi \ better
 vielä \ yet ; even ; still
-tila \ state ; condition, space
+tila \ space ; state ; condition
 hetkinen \ (small) moment
 tarkistaa \ to check ; to verify
 vapaa \ free

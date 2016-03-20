@@ -28,7 +28,7 @@ ruma \ ugly
 lämmin \ warm
 viileä \ cool
 valoisa \ bright
-pimeä \ dark
+pimeä \ dark (brightness)
 paljon \ many
 vähän \ few
 
