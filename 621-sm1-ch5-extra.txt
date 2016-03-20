@@ -1,0 +1,114 @@
+kun                     \ when ; as
+ensin                   \ first
+sitten                  \ then
+tavallisesti            \ usually (t...)
+vain                    \ only
+mutta                   \ but
+heti                    \ right away
+vielä                   \ yet
+
+# Verbs
+puhua (1)               \ to talk
+lukea (1)		\ to read
+kirjoittaa (1)		\ to write
+piirtää (1)		\ to draw
+opiskella (3)		\ to study
+keskustella (3)		\ to discuss
+nukkua (1)		\ to sleep
+soida (2)		\ to sound (musical) ; to ring
+herätä (4)		\ to wake up
+nousta (3)		\ to get up
+syödä (2)		\ to eat
+juoda (2)		\ to drink
+tehdä ruokaa (2)	\ to cook
+polttaa tupakkaa (1)	\ to smoke
+juhlia (1)		\ to celebrate ; to party
+ottaa (1)		\ to take
+antaa (1)		\ to give
+avata (4)		\ to open
+valita (5)		\ to choose
+korjata (4)		\ to fix ; to repair
+häiritä (5)		\ to diturb ; to bother ; to disrupt
+asua (1)		\ to live ; to reside
+siivota (4)		\ to clean
+imuroida (2)		\ to vacuum
+pestä (3)		\ to wash
+myydä (2)		\ to sell
+ostaa (1)		\ to buy
+maksaa (1)		\ to pay
+tilata (4)		\ to order
+pelata (4)		\ to play (game)
+uida (2)		\ to swim
+juosta (3)		\ to run
+tanssia (1)		\ to dance
+laulaa (1)		\ to sing
+soittaa (1)		\ to play (musical instrument)
+katsoa (1)		\ to watch
+seisoa (1)		\ to stand
+istua (1)		\ to sit
+kävellä (3)		\ to walk
+mennä (3)		\ to go
+tulla (3)		\ to come
+matkustaa (1)		\ to travel
+lentää (1)		\ to fly
+ajaa (1)		\ to drive
+pyöräillä (3)		\ to ride a cycle
+rakastaa (1)		\ to love
+nauraa (1)		\ to laugh
+hymyillä (3)		\ to smile
+itkeä (1)		\ to cry
+
+# clocks
+varttia			\ a quarter (1/4th) ; a quarter hour
+yli			\ over ; past
+puoli			\ half
+vaille			\ until
+aamulla			\ in the morning
+aamupäivällä		\ in the late morning
+iltapäivällä		\ in the afternoon
+illalla			\ in the evening
+yöllä			\ at night
+
+# time - numbers for time
+yhdeltä			\ 
+kahdelta		\ 
+kolmelta		\ 
+neljältä		\ 
+viideltä		\ 
+kuudelta		\ 
+seitsemältä		\ 
+kahdeksalta		\ 
+yhdeksältä		\ 
+kymmeneltä		\ 
+yhdeltätoista		\ 
+kahdeltatoista		\ 
+Mihin aikaan(... ?)	\ At what time(... ?)
+Menen nukkumaan		\ I am going to bed
+
+# Puhutaan!
+osasto			\ department
+kerros			\ floor
+hissi			\ elevator
+siellä			\ there (not pointing)
+sopiva			\ suitable ; fitted
+tässä			\ here (close)
+punainen		\ red
+haluta (4)		\ to want
+sovittaa (1)		\ to fit ; to try on
+no			\ well (interjection)
+ihan			\ exactly ; totally
+tyhmä			\ stupid
+väri			\ color
+vai niin		\ or so (???)
+tuolla			\ at that ; on that
+ihana			\ wonderful ; lovely
+täällä			\ here (around) ; over here
+koko			\ whole
+myyjä			\ seller
+liian			\ too (too much, too old, too XX, etc)
+hetkinen		\ a (short) moment
+tarkistaa (1)		\ to check ; to verify
+varasto			\ storage
+
+
+tätä                    \ this (partitive)
