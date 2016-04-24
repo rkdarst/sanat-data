@@ -6,7 +6,7 @@ soida (2) \ to sound (musical) ; to ring
 mennä (3) \ to go
 ensin \ first
 suihku \ shower
-sitten \ sitten
+sitten \ then
 keittiö \ kitchen
 tehdä (2) \ to do ; to make
 aamupala \ breakfast
@@ -14,7 +14,7 @@ lukea (1) \ to read
 lehti \ newspaper
 kun \ when (as)
 syödä (2) \ to eat
-tavallisesti \ usually
+tavallisesti \ usually (t...)
 muroja \ cereal
 voileipä \ buttered bread
 aamu \ morning

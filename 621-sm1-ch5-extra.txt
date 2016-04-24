@@ -70,20 +70,20 @@ illalla			\ in the evening
 yöllä			\ at night
 
 # time - numbers for time
-yhdeltä			\ 
-kahdelta		\ 
-kolmelta		\ 
-neljältä		\ 
-viideltä		\ 
-kuudelta		\ 
-seitsemältä		\ 
-kahdeksalta		\ 
-yhdeksältä		\ 
-kymmeneltä		\ 
-yhdeltätoista		\ 
-kahdeltatoista		\ 
+yhdeltä			\ at one (time)
+kahdelta		\ at two (time)
+kolmelta		\ at three (time)
+neljältä		\ at four (time)
+viideltä		\ at five (time)
+kuudelta		\ at six (time)
+seitsemältä		\ at seven (time)
+kahdeksalta		\ at eight (time)
+yhdeksältä		\ at nine (time)
+kymmeneltä		\ at ten (time)
+yhdeltätoista		\ at eleven (time)
+kahdeltatoista		\ at twelve (time)
 Mihin aikaan(... ?)	\ At what time(... ?)
-Menen nukkumaan		\ I am going to bed
+Menen nukkumaan		\ (I) am going to bed
 
 # Puhutaan!
 osasto			\ department
