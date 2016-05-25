@@ -1,0 +1,55 @@
+hyvä                    \ good
+herkullinen	        \ delicious
+huono		        \ bad (h...)
+paha		        \ bad (p...)
+kylmä		        \ cold
+kuuma		        \ hot
+lämmin		        \ warm
+makea		        \ sweet
+hapan		        \ sour
+kypsä		        \ ripe ; cooked
+raaka		        \ raw
+tuore		        \ fresh
+vanha		        \ old
+suolainen	        \ salty
+suolaton	        \ without salt
+rasvainen	        \ fatty
+rasvaton	        \ without fat
+tulinen		        \ spicy
+mieto		        \ mild
+terveellinen	        \ healthy
+epäterveellinen	        \ unhealthy
+kallis		        \ expensive
+halpa		        \ cheap
+edullinen	        \ advantages ; cheap
+valmis		        \ ready
+
+juhlat		        \ birthday
+toivotukset	        \ wishes
+syntymäpäivä	        \ birthday
+mimipäivä	        \ name day
+ristiäiset              \ christening 
+nimiäiset	        \ naming
+häät		        \ wedding (plural)
+hautajaiset	        \ funeral
+tupaantulijaiset        \ housewarming party
+valmistujaiset	        \ graduation
+läksiäiset              \ farewell party
+
+
+neuvoa                  \ to advise ; to counsel
+löytää			\ to find
+siksi			\ therefore
+ongelma			\ problem
+eksynyt			\ lost
+(G +) toisella puolella	\ on the other side
+lähellä			\ near ; close
+suunta			\ direction
+suoraan			\ directly
+eteenpäin		\ ahead
+risteys			\ intersection
+kääntyä			\ turn
+kadunkulma		\ street corna
+jatkaa                  \ to continue
+liikennevalot           \ traffic lights
+liikenneympyrä          \ roundabout

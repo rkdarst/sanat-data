@@ -1,0 +1,20 @@
+ensimmäinen             \ 
+toinen			\ 
+kolmas			\ 
+yksikkö			\ 
+monikko			\ 
+			\ 
+(G +) edessä			\ in front (postposition)
+(G +) takana			\ behind (postposition)
+(G +) vieressä			\ next to (postposition)
+(G +) oikealla puolella		\ on the right side (postposition)
+(G +) vasemmalla puolella	\ on the left side (postposition)
+(G +) välissä			\ between (postposition)
+(G +) keskellä			\ in the middle (postposition)
+(G +) ympärillä			\ around (postposition)
+(G +) ääressä			\ at (postposition)
+(G +) päällä			\ on  (postposition)
+(G +) alla                   	\ below (postposition)
+
+
+
